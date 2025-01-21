@@ -1,1 +1,3 @@
 # SCM
+
+Hello Friends
